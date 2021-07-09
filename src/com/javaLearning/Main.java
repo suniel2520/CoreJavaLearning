@@ -6,7 +6,7 @@ import java.util.*;
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // concepts about classes and objects
 class Box {
-                                                              // private means accessible only within the box class
+    // demo box class                                                          // private means accessible only within the box class
     private int length, breadth, height;                      // instance variable
                                                              // public means accessible outside the box class also
     public void setDimension(int l, int b, int h) {           // instance member function
